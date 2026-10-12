@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/dteenergy/58fc9e72-c988-4e3e-9fac-41e3e2e2da95/6f8c62bc-12ec-4899-ad15-05558ab8a05e/_apis/work/boardbadge/e65726e5-d764-41cc-8d80-8d3edaa73da2)](https://dev.azure.com/dteenergy/58fc9e72-c988-4e3e-9fac-41e3e2e2da95/_boards/board/t/6f8c62bc-12ec-4899-ad15-05558ab8a05e/Microsoft.RequirementCategory)
 <!--
 ---
 id: CopilotCLI-ROOT
